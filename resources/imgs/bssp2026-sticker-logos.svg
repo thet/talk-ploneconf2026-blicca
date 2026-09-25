@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120mm"
+   height="22mm"
+   version="1.1"
+   viewBox="0 0 120 22"
+   id="svg26"
+   sodipodi:docname="bssp2026-sticker-logos.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.224054"
+     inkscape:cx="194.95489"
+     inkscape:cy="31.723079"
+     inkscape:window-width="3840"
+     inkscape:window-height="2088"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g27" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5"
+       x1="454.01001"
+       x2="971.73999"
+       y1="54.946999"
+       y2="54.946999"
+       gradientTransform="translate(-426.12,125.72)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-opacity:0"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#0095d3;stroke:none;stroke-width:40.0005;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="rect27"
+     width="453.54901"
+     height="83.150658"
+     x="33.528118"
+     y="173.05833"
+     transform="matrix(0.26458,0,0,0.26458,-8.870868,-45.787776)" />
+  <g
+     transform="translate(-45.772868,-59.530776)"
+     id="g26">
+    <g
+       transform="matrix(0.26458,0,0,0.26458,36.902,13.743)"
+       id="g25">
+      <g
+         id="g27"
+         transform="translate(15.029108,9.0935246)">
+        <g
+           transform="translate(3.481317,-58.466281)"
+           id="g23">
+          <g
+             transform="matrix(0.020938,0,0,-0.019599,368.04,293.49)"
+             id="g8">
+            <path
+               d="m 4038.9,356.04 c 0,-25.273 -16.85,-40.449 -41.45,-40.449 -24.62,0 -41.46,15.176 -41.46,40.449 0,25.274 16.84,40.43 41.46,40.43 24.6,0 41.45,-15.156 41.45,-40.43 z m -127.4,0 c 0,-50.547 33.71,-90.996 85.95,-90.996 52.22,0 85.92,40.449 85.92,90.996 0,50.547 -33.7,90.996 -85.92,90.996 -52.24,0 -85.95,-40.449 -85.95,-90.996 z m 44.49,-161.06 c 0,10.45 5.39,19.883 12.47,24.942 l -35.05,33.359 c -16.18,-15.84 -21.91,-39.101 -21.91,-58.301 0,-50.566 33.71,-90.996 85.95,-90.996 52.22,0 85.92,40.43 85.92,90.996 0,19.2 -5.72,42.461 -21.89,58.301 l -35.06,-33.359 c 6.75,-5.742 12.48,-13.828 12.48,-24.942 0,-25.292 -16.85,-40.449 -41.45,-40.449 -24.62,0 -41.46,15.157 -41.46,40.449 z M 4016.91,53.5 c 0,-17.871 14.35,-32.227 32.23,-32.227 17.86,0 32.22,14.356 32.22,32.227 0,17.852 -14.36,32.227 -32.22,32.227 -17.88,0 -32.23,-14.375 -32.23,-32.227 z M 3911.5,671.96 c 0,-24.277 8.43,-40.117 29.31,-51.894 -19.86,-8.77 -29.31,-27.637 -29.31,-50.547 0,-24.629 13.49,-41.133 26.29,-47.871 v -0.684 h -22.24 v -48.516 h 163.79 v 50.547 h -81.56 c -21.23,0 -41.79,4.043 -41.79,30.352 0,23.242 24.59,22.558 36.74,22.558 h 86.61 v 50.567 h -86.61 c -20.23,0 -36.74,7.402 -36.74,30.664 0,16.504 12.81,22.246 27.97,22.246 h 95.38 v 50.547 h -96.73 c -39.77,0 -71.11,-13.477 -71.11,-57.969"
+               id="path2"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 414.7,568.87 c -25.73,32.91 -77.175,48.34 -116.28,48.34 -45.273,0 -108.05,-20.566 -108.05,-75.078 0,-132.72 335.46,-47.324 335.46,-302.44 C 525.83,77.152 395.15,0.002 244.9,0.002 151.26,0.002 68.94,27.775 0,91.564 l 114.22,125.49 c 32.929,-43.203 86.445,-68.926 139.94,-68.926 52.481,0 111.14,24.707 111.14,76.133 0,70.31965 -94.46359,83.75184 -184.04661,115.97698 C 100.4724,369.29682 23.66,413.63701 23.66,528.751 c 0,155.33 134.81,236.6 277.84,236.6 82.324,0 161.56,-21.602 223.3,-76.133 L 414.69,568.868"
+               id="path3"
+               sodipodi:nodetypes="cssssccssssscc"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 1732.5,568.87 c -25.72,32.91 -77.17,48.34 -116.27,48.34 -45.28,0 -108.06,-20.566 -108.06,-75.078 0,-132.72 335.46,-47.324 335.46,-302.44 0,-162.54 -130.68,-239.69 -280.92,-239.69 -93.65,0 -175.96,27.773 -244.91,91.562 l 114.23,125.49 c 32.93,-43.203 86.44,-68.926 139.94,-68.926 52.48,0 111.13,24.707 111.13,76.133 0,133.73 -341.64,61.719 -341.64,304.49 0,155.33 134.81,236.6 277.85,236.6 82.33,0 161.56,-21.602 223.3,-76.133 L 1732.5,568.868"
+               id="path4"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 2238.2,381.43 v -160 h 95.82 c -9.4,-35.137 -56.06,-61.426 -92.91,-61.426 -69.18,0 -125.45,56.25 -125.51,125.41 v 444.51 h -160.01 v -465.68 h 0.88 c 10.92,-147.52 134.36,-264.24 284.64,-264.24 111.13,0 221.42,93.535 221.42,136.41 V 21.274 h 160 v 360.16 H 2238.2"
+               id="path5"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 2878.3,729.92 h -216.78 l -98.11,-248.5 h 172.02 l 34.49,87.344 81.85,-207.34 h -129.16 v -160 h 192.33 l 71.13,-180.16 h 172.03 l -279.8,708.65"
+               id="path6"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 3586.4,151.25 h -180.98 v 155.92 h 180.98 c 43.06,0 77.96,-34.902 77.96,-77.949 0,-43.067 -34.9,-77.969 -77.96,-77.969 z m -180.98,448.67 h 160.09 c 43.05,0 77.96,-34.902 77.96,-77.949 0,-43.047 -34.91,-77.95 -77.96,-77.95 h -160.09 z m 328,-205.96 c 113.46,89.101 79.28,335.96 -115.52,335.96 H 3245.42 V 21.27 h 149.83 c 0.02,0 0.04,-0.0195 0.06,-0.0195 h 226.78 c 208.51,0 245.6,274.82 111.33,372.72"
+               id="path7"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="M 1107.1,729.92 943.81,468.61 780.52,729.92 H 591.85 L 863.81,294.69 V 21.27 h 160 v 273.44 l 271.95,435.22 H 1107.1"
+               id="path8"
+               style="fill:#ffffff;fill-opacity:1" />
+          </g>
+          <g
+             transform="matrix(0.42049,0,0,0.42049,224.53,254.8)"
+             id="g12"
+             style="fill:#ffffff;fill-opacity:1">
+            <text
+               x="151.74419"
+               y="71.500511"
+               style="font-style:oblique;font-weight:bold;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke-width:1px"
+               xml:space="preserve"
+               id="text8"><tspan
+                 x="151.74419"
+                 y="71.500511"
+                 style="font-size:19.961px;line-height:1.25;fill:#ffffff;fill-opacity:1"
+                 id="tspan8">BlueDynamics</tspan></text>
+            <text
+               x="153.32104"
+               y="93.061546"
+               style="font-style:oblique;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke-width:1px"
+               xml:space="preserve"
+               id="text9"><tspan
+                 x="153.32104"
+                 y="93.061546"
+                 style="font-size:19.961px;line-height:1.25;fill:#ffffff;fill-opacity:1"
+                 id="tspan9">Alliance</tspan></text>
+            <text
+               x="153.32104"
+               y="93.061546"
+               style="font-style:oblique;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke-width:1px"
+               xml:space="preserve"
+               id="text10"><tspan
+                 x="153.32104"
+                 y="93.061546"
+                 style="font-size:19.961px;line-height:1.25;fill:#ffffff;fill-opacity:1"
+                 id="tspan10">Alliance</tspan></text>
+            <path
+               transform="matrix(-0.010188,0.14476,-0.17915,0,169.46,29.732)"
+               d="m 440,370.93 a 72.857,72.857 0 1 1 -145.71,0 72.857,72.857 0 1 1 145.71,0 z"
+               id="path10"
+               style="fill:#ffffff;fill-opacity:1" />
+            <path
+               d="m 119.3,65.823 c 37.179,14.838 14.525,37.832 -6.6125,42.786 -5.0967,1.1945 46.58,-21.16 6.6125,-42.786 z"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+               id="path11" />
+            <path
+               d="M 79.132,99.298 C 41.953,84.46 64.607,61.466 85.7445,56.512 c 5.0967,-1.1945 -46.58,21.16 -6.6125,42.786 z"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+               id="path12" />
+          </g>
+          <g
+             transform="matrix(0.46699,0,0,0.46699,161.88,278.51)"
+             fill="#0095d3"
+             id="g22"
+             style="fill:#ffffff;fill-opacity:1">
+            <path
+               d="M 65.327,23.208 H 58.738 V 34.596 H 54.345 V 5.638 h 10.981 c 5.653,0 9.271,3.742 9.271,8.785 0,5.043 -3.618,8.785 -9.27,8.785 z M 65.082,9.583 h -6.345 v 9.639 h 6.345 c 3.05,0 5.124,-1.749 5.124,-4.799 0,-3.051 -2.074,-4.84 -5.124,-4.84 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path13" />
+            <path
+               d="m 83.969,34.596 c -3.904,0 -5.652,-2.644 -5.652,-5.693 V 5.638 h 4.148 v 23.021 c 0,1.587 0.567,2.399 2.235,2.399 h 1.83 v 3.538 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path14" />
+            <path
+               d="m 104.76,32.399 c -1.344,1.384 -3.377,2.44 -6.184,2.44 -2.805,0 -4.799,-1.058 -6.141,-2.44 -1.951,-2.032 -2.439,-4.637 -2.439,-8.134 0,-3.457 0.488,-6.061 2.439,-8.094 1.342,-1.383 3.336,-2.44 6.141,-2.44 2.807,0 4.84,1.059 6.184,2.44 1.951,2.033 2.439,4.637 2.439,8.094 0.002,3.498 -0.488,6.101 -2.439,8.134 z m -3.133,-13.786 c -0.773,-0.773 -1.83,-1.181 -3.051,-1.181 -1.219,0 -2.236,0.406 -3.01,1.181 -1.26,1.261 -1.422,3.416 -1.422,5.652 0,2.236 0.162,4.393 1.422,5.653 0.773,0.771 1.791,1.22 3.01,1.22 1.221,0 2.277,-0.447 3.051,-1.22 1.262,-1.262 1.424,-3.417 1.424,-5.653 0,-2.236 -0.162,-4.392 -1.424,-5.652 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path15" />
+            <path
+               d="M 123.64,34.596 V 22.029 c 0,-3.214 -1.83,-4.597 -4.147,-4.597 -2.317,0 -4.271,1.423 -4.271,4.597 v 12.566 h -4.147 v -20.62 h 4.065 v 2.074 c 1.425,-1.546 3.416,-2.318 5.49,-2.318 2.115,0 3.865,0.691 5.084,1.871 1.586,1.545 2.074,3.497 2.074,5.815 v 13.178 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path16" />
+            <path
+               d="m 135.77,25.486 c 0,3.537 1.871,5.774 5.246,5.774 2.317,0 3.539,-0.649 5.004,-2.115 l 2.643,2.481 c -2.115,2.114 -4.107,3.213 -7.727,3.213 -5.166,0 -9.273,-2.725 -9.273,-10.574 0,-6.671 3.457,-10.534 8.744,-10.534 5.531,0 8.744,4.067 8.744,9.925 v 1.83 z m 8.703,-5.695 c -0.65,-1.545 -2.113,-2.604 -4.066,-2.604 -1.951,0 -3.457,1.059 -4.107,2.604 -0.406,0.936 -0.488,1.546 -0.529,2.807 h 9.273 c -0.043,-1.261 -0.163,-1.872 -0.571,-2.807 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path17" />
+            <circle
+               cx="17.815001"
+               cy="11.516"
+               r="4.402"
+               style="fill:#ffffff;fill-opacity:1"
+               id="circle17" />
+            <path
+               d="m 31.167,20.311 c 0,2.433 -1.969,4.401 -4.403,4.401 -2.427,0 -4.401,-1.97 -4.401,-4.401 0,-2.433 1.975,-4.401 4.401,-4.401 2.436,-10e-4 4.403,1.969 4.403,4.401 z"
+               style="fill:#ffffff;fill-opacity:1"
+               id="path18" />
+            <circle
+               cx="17.801001"
+               cy="29.131001"
+               r="4.402"
+               style="fill:#ffffff;fill-opacity:1"
+               id="circle18" />
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               id="g21">
+              <path
+                 d="M 20.441,-0.045 C 9.207,-0.044 0.1,9.063 0.099,20.298 0.1,31.532 9.207,40.639 20.441,40.641 31.676,40.639 40.782,31.534 40.784,20.298 40.783,9.063 31.677,-0.044 20.441,-0.045 Z m 11.45,31.792 C 28.954,34.681 24.919,36.489 20.441,36.49 15.963,36.489 11.928,34.679 8.991,31.747 6.058,28.81 4.25,24.775 4.249,20.298 4.25,15.82 6.058,11.785 8.992,8.848 c 2.937,-2.934 6.972,-4.742 11.45,-4.743 4.478,10e-4 8.513,1.81 11.45,4.743 2.934,2.938 4.742,6.973 4.743,11.45 -0.002,4.477 -1.81,8.512 -4.744,11.449 z"
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="path19" />
+              <path
+                 d="m 153.98,9.95 c -1.195,0 -2.164,0.971 -2.164,2.168 0.002,1.197 0.969,2.168 2.164,2.168 1.199,0 2.172,-0.971 2.172,-2.168 0,-1.197 -0.973,-2.168 -2.172,-2.168 z m 0,4.018 c -1.021,-0.002 -1.846,-0.827 -1.846,-1.85 0.002,-1.021 0.825,-1.849 1.846,-1.851 1.023,0.002 1.852,0.828 1.854,1.851 -0.003,1.023 -0.831,1.848 -1.854,1.85 z"
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="path20" />
+              <path
+                 d="m 154.51,13.409 -0.54,-1.08 h -0.486 v 1.08 h -0.389 v -2.564 h 0.994 c 0.484,0 0.796,0.313 0.796,0.75 0,0.367 -0.224,0.602 -0.513,0.68 l 0.592,1.136 z m -0.451,-2.214 h -0.575 v 0.803 h 0.575 c 0.261,0 0.437,-0.147 0.437,-0.399 0,-0.252 -0.176,-0.404 -0.437,-0.404 z"
+                 style="fill:#ffffff;fill-opacity:1"
+                 id="path21" />
+            </g>
+          </g>
+        </g>
+        <text
+           x="31.91983"
+           y="211.73953"
+           style="font-size:19.1461px;font-family:Akaash;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:none;stroke-width:0.897486"
+           xml:space="preserve"
+           id="text23"><tspan
+             x="31.91983"
+             y="211.73953"
+             style="font-size:16.7534px;font-family:Avenir;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.897486"
+             id="tspan23">KEEPING PLONE OPEN @ GRASSNITZBERG, AUSTRIA</tspan></text>
+        <text
+           x="31.842794"
+           y="188.5461"
+           style="font-size:21.333px;font-family:Akaash;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:none"
+           xml:space="preserve"
+           id="text25"><tspan
+             x="31.842794"
+             y="188.5461"
+             style="font-weight:900;font-size:21.333px;font-family:Avenir;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+             id="tspan25">BUSCHENSCHANKSPRINT 2026</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

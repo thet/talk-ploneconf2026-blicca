@@ -31,7 +31,11 @@ Renaming Classic UI
 
 
 <!-- .slide: data-background="lime" -->
-### ... at the Buschenschanksprint
+<img src="./resources/imgs/bssp2026-sticker.svg"/>
+
+
+<!-- .slide: data-background="lime" -->
+<img src="./resources/imgs/bssp2026-sticker-logos.svg"/>
 
 
 <!-- .slide: data-background="lime" data-background-image="./resources/fotos/group-photo.jpg" -->
