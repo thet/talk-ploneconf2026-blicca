@@ -33,8 +33,25 @@ Renaming Classic UI
 <!-- .slide: data-background="lime" -->
 ### ... at the Buschenschanksprint
 
-Big plans
-Loads of TODOs
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/group-photo.jpg" -->
+
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/bssp-2.jpg" -->
+
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/bssp-3.jpg" -->
+
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/bssp-4.jpg" -->
+
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/bssp-5.jpg" -->
+
+
+<!-- .slide: data-background="lime" -->
+- Big plans
+- Loads of TODOs
 
 
 <!-- .slide: data-background="lime" -->
@@ -47,6 +64,13 @@ Identity crisis
 Discussion under the apple trees
 
 
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/to-the-discussion.jpg" -->
+
+
+<!-- .slide: data-background="lime" data-background-image="./resources/fotos/under-the-apple-tree.jpg" -->
+
+
+<!-- .slide: data-background="lime" -->
 - enthusiasm
 - motivation
 - vision
@@ -60,63 +84,29 @@ Discussion under the apple trees
 ### Except the name.
 
 
-
 <!-- .slide: data-background="lime" -->
+### Blicca.
 
-## Classic UI got it's new name at the Buschenschanksprint
+<a href="./resources/Blicca.mp3">The Blicca naming podcase episode.</a>
 
-<!-- .slide: data-background="lime" -->
+<small>
+(AI generated)
 
-### Buschenschanksprint?
+<a href="https://flic.kr/s/aHBqjCVoVe">Buschenschanksprint Fotos</a>
+</small>
 
-Developer Hackaton at
+<!--small>
+<a href="https://photos.app.goo.gl/oMC4ptYkhSs7SiJE6">Buschenschanksprint Fotos 1</a>
+<a href="https://www.flickr.com/photos/gyst/albums/72177720333926135/">Buschenschanksprint Fotos 2</a>
+</small-->
 
-<!-- .slide: data-background="lime" -->
 
-## Classic UI discussions
 
-- Future of Classic UI discussion
-- At the Buschenschanksprint
-
-<!-- .slide: data-background="lime" -->
-
-### Result
-
-We want, need, love and keep Classic UI as a user interface to Plone
-
-<!-- .slide: data-background="lime" -->
-
-### Naming
-
-But the naming is unfortunate.
-
-The classic - "Obsolete" UI
-
-<!-- .slide: data-background="lime" -->
-
-### New name was needed!
-
-<!-- .slide: data-background="lime" -->
-
-### favorites
-
-- Clara
-
-TODO: ask peter, peter and maik what were the favorites.
-
-<!-- .slide: data-background="lime" -->
-
-### And the winner is:
-
-Blicca
-
-<!-- .slide: data-background="lime" -->
-
-### But how?
-
-Just listen.
 
 <!-- .slide: data-background="Purple" data-background-image="./resources/imgs/thats_all_folks.svg" -->
+
+
+
 
 <!-- .slide: data-background="Black" -->
 
